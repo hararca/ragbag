@@ -11,3 +11,4 @@ Resources, bookmarks and useful stuff in general
 ### Javascript
 * [Eloquent JavaScript](http://eloquentjavascript.net/) (Book)
 * [JavaScript Standard Style](http://standardjs.com/) (Style guide)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (Book series)
