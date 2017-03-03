@@ -1,4 +1,4 @@
-# Ragbag
+# RAGBAG
 Resources, bookmarks and useful stuff in general
 ## Computer Science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) (Course)
