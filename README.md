@@ -12,3 +12,7 @@ Resources, bookmarks and useful stuff in general
 * [Eloquent JavaScript](http://eloquentjavascript.net/) (Book)
 * [JavaScript Standard Style](http://standardjs.com/) (Style guide)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (Book series)
+
+#### WebGL
+* [WebGL Fundamentals](https://webglfundamentals.org/) (Online resource)
+* [WebGL2 Fundamentals](https://webgl2fundamentals.org/) (Online resourcae)
