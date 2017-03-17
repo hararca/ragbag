@@ -21,6 +21,9 @@ Resources, bookmarks and useful stuff in general
 * [WebGL Fundamentals](https://webglfundamentals.org/) (Online resource)
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/) (Online resourcae)
 
+#### Webassembly
+* [A cartoon intro to WebAssembly](https://hacks.mozilla.org/category/a-cartoon-intro-to-webassembly/) (Articles)
+
 ### Python
 * [Introduction to Computing using Python](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x) (Course)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) (Course)
